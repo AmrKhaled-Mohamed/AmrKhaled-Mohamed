@@ -49,7 +49,7 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](www.linkedin.com/in/amr-khaled-25a583378)  
+[![LinkedIn]( www.linkedin.com/in/amr-khaled-25a583378 )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
