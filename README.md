@@ -15,6 +15,13 @@
 
 ---
 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
 ### 🛠️ Tools & Technologies I Use
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-blue?style=flat)
 ![Automation](https://img.shields.io/badge/Automation%20Testing-green?style=flat)
@@ -27,6 +34,15 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🤝 Soft Skills
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-critical?style=flat)
+![Teamwork](https://img.shields.io/badge/Teamwork-success?style=flat)
+![Communication](https://img.shields.io/badge/Communication-blueviolet?style=flat)
+![Adaptability](https://img.shields.io/badge/Adaptability-ff69b4?style=flat)
+![Time Management](https://img.shields.io/badge/Time%20Management-9cf?style=flat)
 
 ---
 
